@@ -1,0 +1,12 @@
+.title {
+  padding: 20px 0 20px 0;
+}
+
+.icon {
+  margin-top: 25px;
+  color: rgba(0, 0, 0, 0.602);
+}
+
+.icon:hover {
+  color: #153390;
+}

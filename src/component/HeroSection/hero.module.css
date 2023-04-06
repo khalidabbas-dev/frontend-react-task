@@ -1,0 +1,25 @@
+.wrapper {
+  /* height: 100vh; */
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.headLine {
+  font-weight: 900;
+  font-size: 2.5rem;
+  color: #ffffff;
+}
+
+.highlight {
+  color: #cc95f4;
+}
+
+@media (max-width: 768px) {
+  .headLine {
+    font-size: 1.5rem;
+  }
+
+  .wrapper {
+    padding-bottom: 30px;
+  }
+}

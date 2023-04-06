@@ -1,0 +1,9 @@
+.callToActionBtn {
+  background-color: #cc95f4 !important;
+  border-color: #cc95f4 !important;
+}
+
+.checkbox > input:checked {
+  background-color: #cc95f4 !important;
+  border-color: #cc95f4;
+}
